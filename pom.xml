@@ -8,13 +8,6 @@
     <artifactId>java-design-patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <modules>
-        <module>java-singleton-design-pattern</module>
-    </modules>
-
-    <properties>
-    </properties>
-
     <build>
         <plugins>
             <plugin>
